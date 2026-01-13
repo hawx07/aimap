@@ -1,5 +1,7 @@
 # AI Infrastructure Market Map
 
+https://hawx07.github.io/aimap/
+
 A high-performance, interactive visualization of the AI infrastructure ecosystem, built with D3.js. This project maps the complex relationships between semiconductor manufacturers, cloud providers, and networking companies in a force-directed graph.
 
 ## Features
